@@ -6,10 +6,10 @@ Olist E-commerce Sales Analysis using Power BI
 The goal of this project is to analyze Olist’s e-commerce sales data to identify sales trends, customer behavior, and performance metrics to support business decisions and marketing strategies.
 
 ## Tools & Technologies used
-1.Microsoft Power BI – for dashboard creation, data modeling, and interactive visualizations
-2.Power Query – for data cleaning and transformation
-3.DAX (Data Analysis Expressions) – for creating calculated columns, KPIs, and measures
-4.Excel – for initial data analysis, trend checks, and validation
+- Microsoft Power BI – for dashboard creation, data modeling, and interactive visualizations
+- Power Query – for data cleaning and transformation
+- DAX (Data Analysis Expressions) – for creating calculated columns, KPIs, and measures
+- Excel – for initial data analysis, trend checks, and validation
 
 ## Dataset Description
 1.The dataset was sourced from Kaggle (Olist E-commerce Dataset).
