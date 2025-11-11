@@ -12,21 +12,21 @@ The goal of this project is to analyze Olist’s e-commerce sales data to identi
 - Excel – for initial data analysis, trend checks, and validation
 
 ## Dataset Description
-1.The dataset was sourced from Kaggle (Olist E-commerce Dataset).
-2.It contains detailed information about online sales transactions made on the Olist platform in Brazil.
-3.The data includes:
-4.Order details – order date, delivery date, order status
-5.Product information – product category, price, and freight value
-6.Customer details – location (city and state)
-7.Payment information – payment type and number of installments
-8.Customer reviews – review score and review comments
-9.This dataset provides insights into customer purchasing behavior, delivery performance, and product sales trends.
+- The dataset was sourced from Kaggle (Olist E-commerce Dataset).
+- It contains detailed information about online sales transactions made on the Olist platform in Brazil.
+- The data includes:
+- Order details – order date, delivery date, order status
+- Product information – product category, price, and freight value
+- Customer details – location (city and state)
+- Payment information – payment type and number of installments
+- Customer reviews – review score and review comments
+- This dataset provides insights into customer purchasing behavior, delivery performance, and product sales trends.
 
 ## Insights
-1.Sales dropped by 57% in September, then grew 15% in October and 41% in November (Black Friday).
-2.Top 10 products showed low/no sales in September, showing strong promotional influence.
-3.Cancellations mostly had review scores of 1, showing service issues.
-4.Insights helped identify seasonal sales patterns and promotion planning opportunities.
+- Sales dropped by 57% in September, then grew 15% in October and 41% in November (Black Friday).
+- Top 10 products showed low/no sales in September, showing strong promotional influence.
+- Cancellations mostly had review scores of 1, showing service issues.
+- Insights helped identify seasonal sales patterns and promotion planning opportunities.
 
 ## Report
 <img width="1257" height="617" alt="Intro" src="https://github.com/user-attachments/assets/19289ca0-46ff-42f4-aa99-4354210397d8" />
